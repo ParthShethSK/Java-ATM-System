@@ -35,7 +35,7 @@ Follow these steps to run the Java ATM System:
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/Java-ATM-System.git
+   git clone https://github.com/ParthShethSK/Java-ATM-System.git
    
 2. Open the project in NetBeans.
 
